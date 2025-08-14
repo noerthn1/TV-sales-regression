@@ -30,3 +30,8 @@ pip install pandas numpy matplotlib scikit-learn jupyter
 
 3. Open the notebook:
 jupyter notebook / python Advertising.ipynb
+
+## 🧠 Insights
+1. Positive linear relationship between TV advertising spend and shaving cream sales.
+2. Each $1,000 spent on TV ads increases sales by ~54 units.
+3.TV ads have a significant impact, but other factors (Radio, Newspaper, seasonality) also matter.
